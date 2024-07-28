@@ -1,6 +1,6 @@
 # Visualization of bike rental data in London
 
-This project provides some interesting visualizations on bike rentals in London. The data was downloaded from [kagle.com] (https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset) and includes information on the number of bike rentals, temperature, and wind speed and weather type.
+This project provides some interesting visualizations on bike rentals in London. The data was downloaded from [kagle.com](https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset) and includes information on the number of bike rentals, temperature, and wind speed and weather type.
 The project transformed the data using the pandas library and then visualized the data using the matplotlib, seaborn, plotnine and ipywidgets libraries.
 
 ## Transformations
@@ -33,5 +33,3 @@ This project was done as part of a visualization skills exercise. If anyone woul
 
 ## License
 MIT, see [LICENSE](LICENSE)
-
-
